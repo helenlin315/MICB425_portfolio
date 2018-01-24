@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516823212243.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3781105144",
+    "id" : "F2D918A9",
+    "lastKnownWriteTime" : 1516835009,
+    "last_content_update" : 1516835009895,
+    "path" : "~/Documents/MICB425_portfolio/DS_assignment3.Rmd",
+    "project_path" : "DS_assignment3.Rmd",
+    "properties" : {
+        "cursorPosition" : "6,4",
+        "last_setup_crc32" : "C2FC0A9Cbb338d19",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

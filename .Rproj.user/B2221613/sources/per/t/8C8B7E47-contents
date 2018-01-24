@@ -1,6 +1,9 @@
 ---
 title: "30776132_MICB425_portfolio"
+author: "Helen Lin (30776132)"
+date: "version `r format(Sys.time(), '%B %d, %Y')`"
 output: html_document
+toc: yes
 ---
 
 ```{r setup, include=FALSE}
