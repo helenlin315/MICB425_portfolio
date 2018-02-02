@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516986466677.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3828837913",
+    "id" : "F03DA362",
+    "lastKnownWriteTime" : 1516988643,
+    "last_content_update" : 1516988643243,
+    "path" : "~/Documents/MICB425_portfolio/Working_Data.R",
+    "project_path" : "Working_Data.R",
+    "properties" : {
+        "cursorPosition" : "16,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
