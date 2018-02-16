@@ -1,12 +1,20 @@
+---
+title: "DS_Assignment4_30776132"
+author: "Helen Lin (30776132)"
+date: "2/15/2018"
+output: html_document
+---
 
-#Downloading data
-
-library(tidyverse)
-source("https://bioconductor.org/biocLite.R")
-biocLite("phyloseq")
-library(phyloseq)
+```{r include=FALSE}
 load("phyloseq_object.RData")
+metadata <- read.table(file="Saanich.metadata copy.txt", header=TRUE, row.names=1, sep="\t")
+library(ggplot2)
+library(dplyr)
+library(phyloseq)
+library(tidyr)
+```
 
+```{r echo=TRUE, message=FALSE, warning=FALSE}
 #Dot plot without data
 ggplot(metadata, aes(x=O2_uM, y=Depth_m))
 
@@ -85,4 +93,4 @@ metadata %>%
   facet_wrap(~Nutrient, scales="free_y") + theme(legend.position="none") 
   
  
-  
+```
