@@ -1,0 +1,178 @@
+---
+title: "MICB425 Portfolio - Microbial Ecological Genomics: From Genomes to Biomes, Spring 2018"
+author: "Helen, Lin, 30776132"
+date: "version `r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    toc: true
+---
+# Module 01
+Reserve the first level headings (#) for the start of a new Module. This will help to organize your portfolio in an intuitive fashion.  
+**Note: Please edit this template to your heart's content. This is meant to be the armature upon which you build your individual portfolio. You do not need to keep this instructive text in your final portfolio, although you do need to keep module and assignment names so we can identify what is what.**
+
+
+## Module 01 portfolio check
+The first of your second level headers (##) is to be used for the portfolio content checks. The Module 01 portfolio check has been built for you directly into this template, but will also be available as a stand-alone markdown document available on the MICB425 GitHub so that you know what is required in each module section in your portfolio. The completion status and comments will be filled in by the instructors during portfolio checks when your current portfolios are pulled from GitHub.
+
+* Installation check
+    + Completion status:
+    + Comments:
+* Portfolio repo setup
+    + Completion status: 
+    + Comments:
+* RMarkdown Pretty html Challenge
+    + Completion status:
+    + Comments:
+* Evidence worksheet_01
+    + Completion status:
+    + Comments:
+* Evidence worksheet_02
+    + Completion status:
+    + Comments:
+* Evidence worksheet_03
+    + Completion status:
+    + Comments:
+* Problem Set_01
+    + Completion status:
+    + Comments:
+* Problem Set_02
+    + Completion status:
+    + Comments:
+* Writing assessment_01
+    + Completion status:
+    + Comments:
+* Additional Readings
+    + Completion status:
+    + Comments  
+    
+## Data science Friday  
+The remaining second level headers (##) are for separating data science Friday, regular course, and project content. In this module, you will only need to include data science Friday and regular course content; projects will come later in the course.
+
+### Installation check
+Third level headers (###) should be used for links to assignments, evidence worksheets, problem sets, and readings, as seen here.  
+
+Use this space to include your installation screenshots.
+
+
+
+### Portfolio repo setup
+Detail the code you used to create, initialize, and push your portfolio repo to GitHub. This will be helpful as you will need to repeat many of these steps to update your porfolio throughout the course.
+
+
+
+### RMarkdown pretty html challenge
+Paste your code from the in-class activity of recreating the example html.
+
+
+
+## Origins and Earth Systems
+### Evidence worksheet 01 
+The template for the first Evidence Worksheet has been included here. The first thing for any assignment should link(s) to any relevant literature (which should be included as full citations in a module references section below).
+
+You can copy-paste in the answers you recorded when working through the evidence worksheet into this portfolio template. 
+
+As you include Evidence worksheets and Problem sets in the future, ensure that you delineate Questions/Learning Objectives/etc. by using headers that are 4th level and greater. This will still create header markings when you render (knit) the document, but will exclude these levels from the Table of Contents. That's a good thing. You don't' want to clutter the Table of Contents too much.
+
+[Whitman *et al* 1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+
+#### Learning objectives
+Describe the numerical abundance of microbial life in relation to ecology and biogeochemistry of Earth systems. 
+
+#### General questions
+* What were the main questions being asked?  
+
+<b>Some of the main questions the author asked were:</b>  
+What is the number of prokaryotes in different environments on Earth?  
+What is the total number of carbon, nitrogen and phosphorus on Earth?
+How can you find these numbers? What strategies can be approached to find these numbers?
+What are the limitations of these strategies?
+How do these numbers affect the potential for genetic diversity?
+
+* What were the primary methodological approaches used?  
+
+A lot of the methodological approaches were finding cell counts and average cell counts. The authors also integrated data from other studies as well as extrapolated and estimated using those data. One concerning fact was that they used field studies that weren't published or verified. Specific examples of this included their estimation of Terrestrial subsurface prokaryotes from groundwater data.
+
+* Summarize the main results or findings. 
+
+The main findings include:
+Prokaryotes are mostly found in three habitats - open ocean, soil and oceanic and terrestrial subsurface. Prokaryotes carbon globally is almost double the total the carbon in living organisms. For example, the total carbon of prokaryotes on Earth is approximately 60-100% the total carbon found in plants. They also have the genetic capacity to evolve and because their genes are widely distributed, this serves as a great opportunity for mutational change. 
+
+* Do new questions arise from the results?  
+
+Some questions that arise from these results include:
+How can we explore the diversity of prokaryotes and what strategies can we use to find this? Are there better definitions for what defines a species in prokaryotes? How accurate are the estimates in the paper based on studies and extrapolation? How do we confirm these numbers? And why haven't we revisited these numbers with the new technology we have now?
+
+
+* Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
+
+The paper was challenging in the sense that a lot of data was thrown at you initially without much context. The authors only explained the global context later. They also didn't explain the methods of the studies where they took their data from or questioned the validity of the numbers they were using. Some of the studies were unpublished. 
+
+
+### Problem set 01
+#### Learning objectives: 
+Describe the numerical abundance of microbial life in relation to the ecology and biogeochemistry of Earth systems.
+
+#### Specific questions:
+* What are the primary prokaryotic habitats on Earth and how do they vary with respect to their capacity to support life? Provide a breakdown of total cell abundance for each primary habitat from the tables provided in the text.  
+
+* What is the estimated prokaryotic cell abundance in the upper 200 m of the ocean and what fraction of this biomass is represented by marine cyanobacterium including Prochlorococcus? What is the significance of this ratio with respect to carbon cycling in the ocean and the atmospheric composition of the Earth?  
+
+* What is the difference between an autotroph, heterotroph, and a lithotroph based on information provided in the text?  
+
+* Based on information provided in the text and your knowledge of geography what is the deepest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this depth?  
+
+* Based on information provided in the text your knowledge of geography what is the highest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this height?  
+
+* Based on estimates of prokaryotic habitat limitation, what is the vertical distance of the Earth’s biosphere measured in km?  
+
+* How was annual cellular production of prokaryotes described in Table 7 column four determined? (Provide an example of the calculation)  
+
+* What is the relationship between carbon content, carbon assimilation efficiency and turnover rates in the upper 200m of the ocean? Why does this vary with depth in the ocean and between terrestrial and marine habitats?  
+
+* How were the frequency numbers for four simultaneous mutations in shared genes determined for marine heterotrophs and marine autotrophs given an average mutation rate of 4 x 10^-7^ per DNA replication? (Provide an example of the calculation with units. Hint: cell and generation cancel out)  
+
+* Given the large population size and high mutation rate of prokaryotic cells, what are the implications with respect to genetic diversity and adaptive potential? Are point mutations the only way in which microbial genomes diversify and adapt?  
+
+* What relationships can be inferred between prokaryotic abundance, diversity, and metabolic potential based on the information provided in the text? 
+
+### Module 01 Writing Assignment
+
+**Opening**
+
+From the beginning of the Earth’s start, microbes have developed as well as grow the various biogeochemical cycles of the environment. As humans continue to contribute to the global warming phenomenon and release hazardous chemicals into various habitats, microbes have been there to react and adapt to the changing circumstances. If we slowly destroy the habitat at a pace that microbes cannot adapt to, then we will not be able to ensure our own survival. Microbes have been vital to shaping the earth’s biogeochemical cycles throughout the centuries. Humans cannot completely cover the extent of microbial actions to ameliorate the environment. For so long we’ve relied on the global catalysis and environmental transformations that microbes provide, we will not be able to survive without microbial life. In this essay, I will explore these themes and prove that humans cannot survive without the help of microbes and their various processes. 
+	
+**Microbes shape the cycles of the Earth**
+
+There is no doubt that microbes have shaped the Earth since the early Archaen period, developing the cycles we know today like the nitrogen cycle, oxygen cycle…etc. The production of oxygen, something that all humans need and cannot live without, was mainly done by microbes. Marine photosynthesis by single cell organisms is a net source of O2 on Earth (Kasting and Siefert 1066). This oxygen is created by the reaction: CO2 + H2O  CH2O + O2 where CH2O is shorthand for complex organic matter (Kasting and Siefert 1066). The initial rise of atmospheric O2 was caused by a primitive cyanobacteria at least 2.3 billion years ago even though the process of oxygenic photosynthesis is extremely complicated (Kasting and Siefert 1066). Even though humans have comprehensive and multi-faceted technology, it is almost impossible for us to replicate such a complex system from scratch. 
+
+Another important cycle that microbes contribute to is the nitrogen cycle. The biosphere needs incorporation of nitrogen into biological molecules which is why prokaryotes are truly vital for their ability to reduce nitrogen gas (N2) to ammonium (Canfield et. Al 192). It is suggested that anoxygenic phototrophs contributed to the flux of nutrients and carbon through the biosphere (Canfield et. Al 193). And due to this, Nitrogen limitation would cause selective pressure anoxygenic phototrophs to fix N2 (Canfield et al. 193). This happened early on in biological evolution in anaerobic photoautotrophs under the domain Bacteria (Canfield et. Al 193). Without this important process, many current organisms and biological processes would not be possible – including human life. 
+	
+Other important pathways include the major biogeochemical fluxes, or in other words the biological fluxes of H, C, N, O, S which are largely driven by microbes (Falkowski et al. 1034). These thermodynamically constrained redox reactions have evolved so that they only require limited external energy to sustain the cycling of these major chemicals (Falkowski et al. 1034). Sulphate and Sulphur respiration as well as iron respiration cycles are mediated by many microbes, often in anaerobic habitats (Falkowski et al. 1034). As we can see, the prevalence of so many central biogeochemical cycles are due to the many microbes that support the chemical reactions. Humans are dependent on these pathways that maintain the Earth’s habitable environment, but we cannot provide support like the microbes do. 
+
+**Humans cannot replicate microbial actions**
+
+Despite the many planetary boundary and intervention techniques humans try to take in order to ameliorate the damage that has already been caused, we cannot adapt and stretch our technology to cover the entirety of the Earth’s atmosphere as microbes do. According to Whitman et al., the number of prokaryotes in the open ocean is around 1.2 x 1029 cells (Whitman et. Al 6578). Of course, these numbers may be inaccurate, but imagine this large number of cells that contribute to oxidative photosynthesis described above, shaping the oxygenic atmosphere that many organisms require. The cellular production rate for prokaryotes is estimated at 1.7 x 1030 cells/year, with the highest rate at the open ocean (Whitman et. al 6578). This enormous contribution of microbes to the atmosphere seems impossible to replicate or even adapt at the microbial pace. 
+
+The techniques and methods that humans have in place to restore the planet’s environment are meek at best. Johan Rockstrom speaks on the framework of planetary boundaries that humans should operate within to respect the Earth’s biophysical processes (472). These thresholds are essentially a critical value for control variables, like CO2 concentration, which we have to maintain in order to contain an already teetering global environment from completely breaking down (Rockstrom 472). The Earth’s biodiversity is so complex that setting such an arbitrary boundary is difficult (Rockstrom 474). And because of microbes and various species that support the ecosystem, we cannot know for sure how much biodiversity can be lost before the Earth’s resilience erodes (Rockstrom 474). The entire argument that humans can restore the ecology of the Earth rests on the our ability to understand the “scale of human action in relation to the capacity of the Earth to sustain it” (Rockstrom 474). Without complete understanding and capacity to change what’s broken, humans will never have the opportunity to reverse global climate change. 
+
+**Humans depend on microbial processes**
+
+Humans are directly dependent on many of the elements of the biogeochemical cycles described above. We will not survive without the existence of microbes. The reason for increasing large scale environmental pollution is due to modern agriculture (Rockstrom 474). Because we require the presence of nitrogen as fertilizers in our crops, we have slowly but surely poisoned the soil and seas with excessive nutrients. The manufacturing of fertilizer for food products convert up to 120 million tonnes of N2 from the atmosphere (Rockstrom 474). Phosphorus, a result of geological processes, is also mined from rock for humans to use as fertilizer or even toothpaste (Rockstrom 474). It goes without saying that humans and countless other organisms require oxygen in the air we breathe in order for basic survival. Man is at the top of the pyramid of life, but each successive layer depends on the ones below it for food and biological services (Leopold 8).
+
+Many of these mined or converted chemicals are disposed in the environment causing a buildup of even more environmental damage. Marine ecosystems take the brunt of these anthropogenic distortions of nitrogen and phosphorus cycles (Rockstrom 474). Reactive oxygen pollutes waterways, coastal zones and land systems, thereby contributing to gases in the atmosphere (Rockstrom 474). 9.5 million tonnes of phosphorus also end up in oceans, eight times its normal background rate of influx (Rockstrom 474). We use the resources that microbes provide, but we do not take care to restore or maintain the pathways in which we take chemicals from. 
+
+**Closing**
+
+Microbes are essential to the survival of humans and other organisms, but humans are not essential for the survival of all life on Earth. The various biogeochemical cycles like oxygen and nitrogen pathways are evolved and shaped to what they are today by microbes. And because there are massive quantities of microbes in the ecosystem, there is no possibility that human advancement in technology could ever replicate the actions or take the place of microbes. We cannot even guarantee our own survival without the presence of microbes since we are largely reliant on microbial pathways for survival. Humans take nutrients from the environment and disrupt the processes we take them from. Should we adhere to the boundaries we have set ourselves to follow in order to try to slow down the Earth’s eroding ecosystem? Or should we try to understand the various microbial pathways that contribute to this ecosystem even better to come up with a solution? Will we ever fully understand the complexities of the Earth’s ecosystem to change anything significantly? These questions can only be answered by testing our perseverance and commitment to find a long-lasting solution to climate change. 
+
+
+### Module 01 references
+Utilize this space to include a bibliography of any literature you want associated with this module. We recommend keeping this as the final header under each module.
+
+Canfield, Daniel E. “The Evolution and Future of Earth’s Nitrogen Cycle.” Science 330, 192 (2010): 192-196. Print. 
+
+Falkowski, Paul G. “The Microbial Engines That Drive Earth's Biogeochemical Cycles.” Science 330, 1034 (200): 1034-1039. Print.
+
+Kasting, James F., and Siefert, Janet L. “Life and Evolution of Earth’s Atmosphere.” Science 296 (2002): 1066-1067. Print. 
+
+Rockstrom, Johan. “A safe operating space for humanity.” Nature 461|24 (2009): 472-475. Print.
