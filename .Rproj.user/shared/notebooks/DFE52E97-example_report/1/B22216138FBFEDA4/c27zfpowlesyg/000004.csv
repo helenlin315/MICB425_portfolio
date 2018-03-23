@@ -1,0 +1,5 @@
+"0","load(""data/mothur_phyloseq.RData"")
+"
+"2","cannot open compressed file 'data/mothur_phyloseq.RData', probable reason 'No such file or directory'"
+"2","Error in readChar(con, 5L, useBytes = TRUE) : cannot open the connection
+"
