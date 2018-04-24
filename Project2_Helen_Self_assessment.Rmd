@@ -1,0 +1,60 @@
+---
+title: "Project 2 self-assessment of contributions"
+author: "Helen Lin, 30776132"
+subtitle: "2018 Term 2 - MICB425"
+output: html_document
+---
+To facilitate group assessment, please indicate your contributions to the following aspects of your final group reports. You should provide short statements under the headers relevant to your work. For example, you could specify that you "wrote the first draft", "wrote the code to accomplish X figure or result", "troubleshot code", "interpreted results", etc.
+
+Include **separate** completed versions of this document for Project 1 **and** Project 2 in your portfolio repo; they do not need to be incorporated into the final knit portfolio html.
+
+## Abstract
+### Writing
+
+### Editing
+
+I helped edit the abstract. 
+
+## Introduction
+### Literature research
+
+I did a lot of literature research for the introduction, especially the OMZ and Saanich Inlet. 
+
+### Writing
+
+I wrote half of the introduction.
+
+### Editing
+
+I edited the introduction. 
+
+## Methods
+### Writing
+
+### Editing
+
+I helped edit the methods. 
+
+## Results
+### Anaysis 
+
+### Figures
+
+### Writing
+
+### Editing
+
+I helped edit the results.
+
+## Discussion
+### Literature research
+
+I wrote the majority of the second question, and did an extensive literature research on the topic.
+
+### Writing
+
+I wrote the entirety of the answer to the second question. 
+
+### Editing
+
+I edited the discussion extensively, picking out grammatical errors and awkward wording. 
